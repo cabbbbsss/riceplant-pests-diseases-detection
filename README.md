@@ -1,4 +1,4 @@
-# Rice Plant Pests and Diseases Detection
+# Riceplant Pests and Diseases Detection
 
 Aplikasi berbasis web untuk mendeteksi hama dan penyakit pada tanaman padi secara otomatis menggunakan model YOLOv11s dan framework Streamlit.
 
