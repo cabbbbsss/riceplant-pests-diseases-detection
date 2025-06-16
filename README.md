@@ -1,6 +1,6 @@
 # Riceplant Pests and Diseases Detection
 
-Aplikasi berbasis web untuk mendeteksi hama dan penyakit pada tanaman padi secara otomatis menggunakan model YOLOv11s dan framework Streamlit.
+Aplikasi berbasis web untuk mendeteksi hama dan penyakit pada tanaman padi secara otomatis menggunakan model YOLOv11 dan framework Streamlit.
 
 ## 📌 Deskripsi
 
@@ -30,7 +30,7 @@ Aplikasi ini tersedia secara publik dan dapat diakses melalui:
 - Streamlit
 - OpenCV
 - Pillow (PIL)
-- Ultralytics YOLOv11s
+- Ultralytics YOLOv11
 
 ## 📂 Struktur Proyek (Sederhana)
 
